@@ -3,9 +3,9 @@ function paragraphSelector(){
   return $('p')
 }
 
-// function lastImageSelector(){
-//   $('img:last')
-// }
+function lastImageSelector(){
+  return $('img:last')
+}
 //
 // function ninjaBabySelector(){
 //   $('#baby-ninja')
