@@ -6,14 +6,14 @@ function paragraphSelector(){
 function lastImageSelector(){
   return $('img:last')
 }
-//
-// function ninjaBabySelector(){
-//   $('#baby-ninja')
-// }
-//
-// function divSelector(){
-//   $('div')
-// }
+
+function ninjaBabySelector(){
+  $('#baby-ninja')
+}
+
+function divSelector(){
+  $('div')
+}
 //
 // function firstListItem(){
 //
